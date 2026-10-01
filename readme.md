@@ -188,7 +188,7 @@ TripBuddy: The currency used in Paris is Euro (EUR).
 Clone the repository:
 
 ```bash
-git clone <Hemanth08-M>
+git clone <https://github.com/Hemanth08-M>
 cd TripBuddy
 ```
 
